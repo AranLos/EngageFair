@@ -1,0 +1,6 @@
+{
+  "lambda_reweight": 0.5,
+  "lambda_mmd": 0.1,
+  "val_macro_f1": 0.6810017604369163,
+  "val_worst_group": 0.2936893203883495
+}

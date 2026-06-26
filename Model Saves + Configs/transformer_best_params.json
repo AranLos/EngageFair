@@ -1,0 +1,8 @@
+{
+  "num_layers": 1.0,
+  "dim_feedforward": 64.0,
+  "dropout": 0.3,
+  "learning_rate": 0.005,
+  "d_model": 64.0,
+  "nhead": 8.0
+}
