@@ -2,6 +2,7 @@
 Data Science Thesis Project 2026. 
 
 Run Order:
+
 Exploratory-Data-Analysis.ipynb to create the initial parquet. You need the CMOSE dataset for this, which can be found at https://huggingface.co/datasets/cwuau/CMOSE/tree/main.
 
 Then Grouping1.ipynb. This makes the final dataset and parquet with the subgroups.
